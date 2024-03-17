@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2a8e324.css",
+    "main.js": "/static/js/main.d3f0ad03.js",
+    "static/media/main.png": "/static/media/main.e9a128c9b41515595906.png",
+    "static/media/about-pets.png": "/static/media/about-pets.ec40aeb47d19d354e619.png",
+    "static/media/donation-dog.png": "/static/media/donation-dog.46b1b018f609ab0395a1.png",
+    "static/media/footer-puppy.png": "/static/media/footer-puppy.63751c488d4df202e2ed.png",
+    "static/media/pet-6.png": "/static/media/pet-6.7ad446138ebddb722a24.png",
+    "static/media/pet-4.png": "/static/media/pet-4.ea40f5bcb3b1c7bb49db.png",
+    "static/media/pet-3.png": "/static/media/pet-3.4e03a97d49e809ce1df6.png",
+    "static/media/pet-5.png": "/static/media/pet-5.399002902dd9ddcd046f.png",
+    "static/media/pet-2.png": "/static/media/pet-2.0b22a26640252358f350.png",
+    "static/media/donation-dog (2).png": "/static/media/donation-dog (2).4708b6ddea015366c711.png",
+    "static/media/pet-8.png": "/static/media/pet-8.e89c341ec974a0c3a6fd.png",
+    "static/media/pet-1.png": "/static/media/pet-1.6fc119f1765671b08c66.png",
+    "static/media/pet-7.png": "/static/media/pet-7.e31611944ab71cb56716.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.a2a8e324.css.map": "/static/css/main.a2a8e324.css.map",
+    "main.d3f0ad03.js.map": "/static/js/main.d3f0ad03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2a8e324.css",
+    "static/js/main.d3f0ad03.js"
+  ]
+}
