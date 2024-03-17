@@ -1,0 +1,73 @@
+
+.shelter_card-img {
+  display: block;
+  margin: 0 auto;
+}
+.shelter_card_info {
+  padding: 30px 40px;
+}
+.shelter_card_text {
+  font-size: 2rem;
+  font-weight: 400;
+  color: #545454;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.shelter_card_img{
+  margin: 0 auto;
+}
+.slider_item_button {
+  font-size: 1.7rem;
+  font-weight: 400;
+  color: #292929;
+  display: block;
+  margin: 0 auto;
+  background: transparent;
+  padding: 15px 45px;
+  border: 2px solid #f1cdb3;
+  border-radius: 100px;
+  cursor: pointer;
+}
+.slider_item_button:hover {
+  background: #f1cdb3;
+  color: white;
+}
+.modal_card{
+ display: flex;
+ align-items: center;
+}
+.modal_card_img{
+  width: 280px;
+}
+.modal_card_image{
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+}
+.modal_card_content{
+  max-width: 350px;
+  max-height: 360px;
+  padding: 20px 0px;
+}
+.modal_card_title{
+  font-size: 26px;
+  font-weight: 400;
+  color: #000000;
+  margin-bottom: 10px;
+}
+.modal_card_text{
+  font-size: 20px;
+  font-weight: 400;
+  color: #1a1a1c;
+  margin-bottom: 20px;
+}
+.modal_card_desc{
+  font-size: 14px;
+  font-weight: 400;
+  color: #000000;
+}
+@media (max-width: 600px){
+  .modal_card{
+    flex-direction: column;
+  }
+}

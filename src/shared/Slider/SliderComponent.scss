@@ -1,0 +1,24 @@
+.left_arrow{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.slick-slide {
+    width: 10%;
+
+}
+@media (max-width: 800px) {
+    .slick-slider {
+        max-width: 800px; 
+        width: 100%;  
+        margin: 0 auto;
+    }
+}
+@media (max-width: 600px) {
+    .slick-slider {
+        width: 360px;
+        margin: 0 auto;
+    }
+}
