@@ -2,6 +2,7 @@
   "name": "shelter",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://holbaev.github.io/shelter/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -26,7 +27,10 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "start-json-server": "json-server --watch db.json --port 8000"
+    "start-json-server": "json-server --watch db.json --port 8000",
+    "deploy": "gh-pages -d build",
+    "predeploy":"npm run build"
+    
   },
   "eslintConfig": {
     "extends": [

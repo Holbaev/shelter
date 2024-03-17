@@ -41,7 +41,7 @@ const ModalWindow = ({title , children, visible, setVisible, closeButton = true 
       style={customStyles}
     >
       <div className={styles.modal_head}>
-        <h3 className={styles.modal_title}>Modal title</h3>
+        <h3 className={styles.modal_title}>{title}</h3>
         <button className={styles.close} onClick={() => setVisible(false)}>
         <img src={closeModal} alt="" />
       </button>

@@ -18,7 +18,7 @@ const PetCard = ({pet}) => {
         <p className={styles.shelter_card_text}>{pet?.name}</p>
         <Button className={styles.slider_item_button} data-number="1" onClick={() => setVisible(true)}>Learn more</Button>
     </div>
-    <ModalWindow visible={visible} setVisible={setVisible}>
+    <ModalWindow visible={visible} setVisible={setVisible} title={pet?.name}>
     <div className={styles.modal_card}>
       <div className={styles.modal_card_img}>
         <img src={pet?.img} alt="" className={styles.modal_card_image} />
